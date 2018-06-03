@@ -14,8 +14,7 @@ import java.text.Collator;
 import java.util.ArrayList;
 
 import br.com.usjt.skyllaion.geodata.R;
-import br.com.usjt.skyllaion.geodata.controller.ListarActivity;
-import br.com.usjt.skyllaion.geodata.util.Util;
+import br.com.usjt.skyllaion.geodata.controller.Util;
 
 public class Pais extends Fragment implements Serializable, Comparable{
 

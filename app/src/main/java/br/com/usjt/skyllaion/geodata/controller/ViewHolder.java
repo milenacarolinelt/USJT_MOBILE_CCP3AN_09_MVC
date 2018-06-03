@@ -1,4 +1,4 @@
-package br.com.usjt.skyllaion.geodata.util;
+package br.com.usjt.skyllaion.geodata.controller;
 
 import android.widget.ImageView;
 import android.widget.TextView;

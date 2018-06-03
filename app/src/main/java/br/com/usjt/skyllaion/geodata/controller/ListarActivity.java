@@ -2,7 +2,6 @@ package br.com.usjt.skyllaion.geodata.controller;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -13,7 +12,6 @@ import java.util.ArrayList;
 import br.com.usjt.skyllaion.geodata.R;
 import br.com.usjt.skyllaion.geodata.model.Data;
 import br.com.usjt.skyllaion.geodata.model.Pais;
-import br.com.usjt.skyllaion.geodata.util.PaisAdapter;
 
 public class ListarActivity extends Activity {
     public static final String PAIS = "br.com.usjt.skyllaion.geodata.model.Pais";

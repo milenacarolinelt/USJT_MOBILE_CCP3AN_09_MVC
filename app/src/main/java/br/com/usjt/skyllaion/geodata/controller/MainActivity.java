@@ -12,9 +12,7 @@ import android.widget.Spinner;
 import java.io.IOException;
 
 import br.com.usjt.skyllaion.geodata.R;
-import br.com.usjt.skyllaion.geodata.database.Database;
 import br.com.usjt.skyllaion.geodata.model.Pais;
-import br.com.usjt.skyllaion.geodata.util.Network;
 
 public class MainActivity extends AppCompatActivity {
     public static final String PAIS = "br.com.usjt.skyllaion.geodata.controller.MainActivity.ListarPaises";

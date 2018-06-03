@@ -1,4 +1,4 @@
-package br.com.usjt.skyllaion.geodata.database;
+package br.com.usjt.skyllaion.geodata.controller;
 
 import android.content.ContentValues;
 import android.content.Context;

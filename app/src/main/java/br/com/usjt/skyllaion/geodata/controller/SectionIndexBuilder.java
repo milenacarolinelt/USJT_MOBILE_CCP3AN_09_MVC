@@ -1,4 +1,4 @@
-package br.com.usjt.skyllaion.geodata.util;
+package br.com.usjt.skyllaion.geodata.controller;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
